@@ -1,0 +1,29 @@
+{
+  "name": "sqlclid-sqlite",
+  "version": "1.0.0",
+  "description": "A SQLite driver for the sqlcli package.",
+  "main": "driver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheBrenny/sqlclid-sqlite.git"
+  },
+  "keywords": [
+    "sql",
+    "cli",
+    "sqlite",
+    "driver"
+  ],
+  "author": "TheBrenny <iam+dev@justbrenny.me>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheBrenny/sqlclid-sqlite/issues"
+  },
+  "homepage": "https://github.com/TheBrenny/sqlclid-sqlite#readme",
+  "dependencies": {
+    "sqlite": "^4.0.23",
+    "sqlite3": "^5.0.2"
+  }
+}
